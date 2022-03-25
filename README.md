@@ -7,6 +7,8 @@ How many of us find ourselves missing deadlines because we're disorganized? This
 * CSS
 * JavaScript
 
+![WDS](https://user-images.githubusercontent.com/98124234/160172375-4477f6cc-4ee9-41fc-8fcf-c6c1a4508d7a.PNG)
+
 ## Deployment
 
 To deploy this project run
