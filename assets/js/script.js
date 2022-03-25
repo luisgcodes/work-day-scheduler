@@ -46,5 +46,3 @@ $(".saveBtn").click(function(){
     var text = $(parentElement).find("textarea").val().trim(); 
     createEvent(id,text);
 });
-
-
